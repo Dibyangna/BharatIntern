@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-image: url('background7.jpg');
+  background-size: cover;
+}
+
+header {
+  background-color: royalblue;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+section {
+  margin: 20px;
+}
+
+.resume button {
+  height: 50px;
+  width: 100px;
+  background-color: royalblue;
+  color: whitesmoke;
+  text-decoration: none;
+}
